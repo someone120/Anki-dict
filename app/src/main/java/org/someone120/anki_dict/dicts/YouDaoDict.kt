@@ -1,7 +1,7 @@
 package org.someone120.anki_dict.dicts
 
 class YouDaoDict:Dictionary{
-    override fun getParaphrase(word: String): List<Paraphrase> {
+    override fun getDefinition(word: String): List<Definition> {
         TODO("Not yet implemented")
     }
 
